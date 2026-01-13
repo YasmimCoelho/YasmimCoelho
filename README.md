@@ -2,11 +2,11 @@
 
 ## I'm... 👑
 ## learning 📚
-Javascript
-Vue.JS
-Ext.js
-Quasar  Framework
-Figma
+* Javascript
+* Vue.JS
+* Ext.js
+* Quasar  Framework
+* Figma
 ## future 🔮
 
 ## 👱‍♀️ for more content
