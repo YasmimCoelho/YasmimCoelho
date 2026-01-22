@@ -5,7 +5,9 @@
 
 ## I'm... 👑
 * 🎓 Graduated in Information and Communication Technologies  
-* 📘 Currently pursuing a degree in Computer Science Education (Teaching Degree)  
+* 📘 Currently pursuing a degree in Computer Science Education (Teaching Degree)
+* 💻 Over 3 years of experience in Front-end Web Development  
+* 🌱 Currently starting my studies in Back-end Development  
 * 🚀 Seeking new paths and opportunities in the technology field  
 * 🌿 In my free time, I enjoy cooking, hiking in nature, and taking care of my garden
 ## learning 📚
