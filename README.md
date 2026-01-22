@@ -11,11 +11,19 @@
 * 🚀 Seeking new paths and opportunities in the technology field  
 * 🌿 In my free time, I enjoy cooking, hiking in nature, and taking care of my garden
 ## learning 📚
-* Javascript
-* Vue.JS
-* Ext.js
-* Quasar  Framework
-* Figma
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://learnhtmlcss.online/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://nerdcave.com/tailwind-cheat-sheet)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://www.dio.me/articles/guia-rapido-para-instalar-e-usar-sass-em-seus-projetos)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info/)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://dev.to/shaancodes/introduction-to-typescript-7lg)
+[![Vue.JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Novout/vue4noobs/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://hcode.com.br/blog/conheca-o-vuetify-o-framework-para-material-design-no-vue-js)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/book/en/v2)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.blog/)
+[![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://docs.github.com/pt/copilot)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://platform.claude.com/docs/en/intro)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google/br/about/?hl=pt-BR)
 ## ⚙️ Building...
 ## languages 🌍
 * 🇧🇷 Portuguese (Native)
