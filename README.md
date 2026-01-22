@@ -26,7 +26,7 @@
 * LinkedIn: [@Yasmim Coelho Tavares](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 * Instagram: [@yasmintcoelho](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 * Site: [yasmintavares.com](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
+https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
 contact me ⭐️ give me tips ⭐️ and I tell you a recipe
 
 ***
