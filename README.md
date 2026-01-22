@@ -1,6 +1,6 @@
 <h1 align="center">print("Welcome!") 🌎</h1>
 <p align="center">
-  <img src="./assets/Black Minimalist Motivation Quote LinkedIn Banner (1).png" width="280" alt="Profile banner" />
+  <img src="./assets/Black Minimalist Motivation Quote LinkedIn Banner (1).png" width="380" alt="Profile banner" />
 </p>
 
 ## I'm... 👑
