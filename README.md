@@ -1,4 +1,7 @@
 <h1 align="center">print("Welcome!") 🌎</h1>
+<p align="center">
+  <img src="./assets/profile.png" width="280" alt="Profile banner" />
+</p>
 
 ## I'm... 👑
 ## learning 📚
