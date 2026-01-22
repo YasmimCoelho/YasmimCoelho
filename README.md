@@ -22,11 +22,11 @@
 🇺🇸 English (Basic)
 ## future 🔮
 ## 👱‍♀️ for more content
-* Twitter: [@yasmintcoelho](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-* LinkedIn: [@Yasmim Coelho Tavares](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-* Instagram: [@yasmintcoelho](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-* Site: [yasmintavares.com](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-*  https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+* Twitter: [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yasmintcoelho)
+* LinkedIn: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-coelho-tavares/)
+* Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasmintcoelho/)
+* Site: [![Site](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmintavares.com/)
+
 contact me ⭐️ give me tips ⭐️ and I tell you a recipe
 
 ***
