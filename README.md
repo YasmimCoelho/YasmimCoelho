@@ -8,7 +8,6 @@
 * 📘 Currently pursuing a degree in Computer Science Education (Teaching Degree)  
 * 🚀 Seeking new paths and opportunities in the technology field  
 * 🌿 In my free time, I enjoy cooking, hiking in nature, and taking care of my garden
-* Ext.js
 ## learning 📚
 * Javascript
 * Vue.JS
