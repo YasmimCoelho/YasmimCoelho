@@ -16,10 +16,10 @@
 * Ext.js
 * Quasar  Framework
 * Figma
-## 🌟 Featured Projects
-## Languages 🔮
-🇧🇷 Portuguese (Native)
-🇺🇸 English (Basic)
+## ⚙️ Building...
+## languages 🌍
+* 🇧🇷 Portuguese (Native)
+* 🇺🇸 English (Basic)
 ## future 🔮
 ## 👱‍♀️ for more content
 [![Site](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yasmintavares.com/)
